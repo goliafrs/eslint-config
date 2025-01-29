@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "allowImportingTsExtensions": true,
+    "strictNullChecks": true,
+    "strictFunctionTypes": true
+  },
+  "exclude": [
+    "dist",
+    "**/dist/*",
+    "node_modules",
+    "**/node_modules/*"
+  ]
+}
