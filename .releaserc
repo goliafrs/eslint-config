@@ -4,7 +4,6 @@
   "debug": false,
   "dryRun": false,
   "tagFormat": "v${version}",
-  "repositoryUrl": "https://github.com/goliafrs/eslint-config",
   "plugins": [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
