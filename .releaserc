@@ -1,7 +1,10 @@
 {
-  "branches": [
-    "main"
-  ],
+  "branches": "main",
+  "ci": true,
+  "debug": false,
+  "dryRun": false,
+  "tagFormat": "v${version}",
+  "repositoryUrl": "https://github.com/goliafrs/eslint-config.git",
   "plugins": [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
